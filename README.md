@@ -2,4 +2,5 @@
 
 
 1)Combining two tables Link: https://leetcode.com/problems/combine-two-tables/
+
 2)Second Highest Salary: https://leetcode.com/problems/second-highest-salary/description/
